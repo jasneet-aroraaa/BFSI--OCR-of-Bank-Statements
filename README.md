@@ -1,5 +1,7 @@
 # BFSI- OCR of Bank Statements
 
+![BFSI](./BFSI.png)
+
 ## Overview
 
 The BFSI (Banking, Financial Services, and Insurance) OCR of Bank Statements project is a comprehensive system designed to automate the extraction, visualization, and analysis of financial document data. Using the **meta-llama/Llama-3.2-11B-Vision-Instruct-Turbo** model, it processes various financial documents like bank statements, cheques, profit and loss statements, salary slips, and transaction histories. The goal is to simplify financial data extraction, deliver accurate results with minimal human intervention, and provide tools for better decision-making and analysis.
