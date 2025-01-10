@@ -1,6 +1,6 @@
 # BFSI- OCR of Bank Statements
 
-![BFSI](./BFSI.png)
+![BFSI](./BFSI2.png)
 
 ## Overview
 
