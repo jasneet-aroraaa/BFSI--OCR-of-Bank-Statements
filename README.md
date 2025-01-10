@@ -115,26 +115,6 @@ The project flowchart below visualizes the workflow of the system:
 
 ![Flowchart](./BFSI%20Flowchart.png)
 
-## Dashboard Snippets
-
-#### Example: Bank Statement
-
-Uploaded Images Using Cloudinary
-
-![ImageUpload](./image%20upload.jpg)
-
-Parameter Extraction
-
-![ParameterExtraction](./parameter%20extraction.jpg)
-
-Visualization: Bar Chart
-
-![Visualization](./visualization.jpg)
-
-Ask a Question About the Document
-
-![QueryDocument](./query%20document.jpg)
-
 ## Contributing
 
 1. Fork the repository.
